@@ -8,7 +8,6 @@
     <artifactId>sample_fx_project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
@@ -45,7 +44,6 @@
             <artifactId>mysql-connector-j</artifactId>
             <version>9.4.0</version>
         </dependency>
-
     </dependencies>
 
 </project>
